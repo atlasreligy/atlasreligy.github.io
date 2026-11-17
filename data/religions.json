@@ -31,6 +31,13 @@
       "Африка южнее Сахары",
       "Филиппины"
     ],
+    "region_refs": [
+      "latin-america",
+      "europe",
+      "north-america",
+      "asia-se",
+      "africa-south"
+    ],
     "legal_status": [
       {
         "country": "Коста-Рика",
@@ -126,6 +133,11 @@
       "Северная Африка",
       "Южная Азия",
       "Юго-Восточная Азия"
+    ],
+    "region_refs": [
+      "mena",
+      "asia-south",
+      "asia-se"
     ],
     "legal_status": [
       {
@@ -229,6 +241,10 @@
       "Бали (Индонезия)",
       "Страны Южной Азии"
     ],
+    "region_refs": [
+      "asia-south",
+      "asia-se"
+    ],
     "legal_status": [
       {
         "country": "Индия",
@@ -313,6 +329,11 @@
       "Восточная Азия",
       "Гималаи",
       "Шри-Ланка"
+    ],
+    "region_refs": [
+      "asia-se",
+      "asia-east",
+      "asia-south"
     ],
     "legal_status": [
       {
@@ -403,6 +424,11 @@
       "Франция",
       "Канада"
     ],
+    "region_refs": [
+      "mena",
+      "north-america",
+      "europe"
+    ],
     "legal_status": [
       {
         "country": "Израиль",
@@ -473,6 +499,11 @@
       "Индия (Пенджаб)",
       "Канада",
       "Великобритания"
+    ],
+    "region_refs": [
+      "asia-south",
+      "north-america",
+      "europe"
     ],
     "legal_status": [
       {
@@ -547,6 +578,11 @@
       "Индия — джайны живут по всей стране",
       "Наибольшая концентрация — Раджастхан, Гуджарат, Орисса, Махараштра, Карнатака",
       "Диаспора: Великобритания, США, Канада и другие страны"
+    ],
+    "region_refs": [
+      "asia-south",
+      "europe",
+      "north-america"
     ],
     "legal_status": [
       {
@@ -625,6 +661,10 @@
       "Тайвань",
       "Юго-Восточная Азия (диаспора)"
     ],
+    "region_refs": [
+      "asia-east",
+      "asia-se"
+    ],
     "legal_status": [
       {
         "country": "КНР",
@@ -702,6 +742,13 @@
       "Индия (парсы)",
       "Диаспора: США, Канада, Великобритания, Австралия"
     ],
+    "region_refs": [
+      "mena",
+      "asia-south",
+      "north-america",
+      "europe",
+      "oceania"
+    ],
     "legal_status": [
       {
         "country": "Иран",
@@ -766,6 +813,11 @@
     "geography": [
       "Япония",
       "диаспора: США (Гавайи), Бразилия"
+    ],
+    "region_refs": [
+      "asia-east",
+      "north-america",
+      "latin-america"
     ],
     "legal_status": [
       {
@@ -833,6 +885,12 @@
       "США (~178 тыс.)",
       "Россия и СНГ",
       "общины более чем в 100 000 местностях (bahai.org)"
+    ],
+    "region_refs": [
+      "asia-south",
+      "mena",
+      "north-america",
+      "eurasia"
     ],
     "legal_status": [
       {
@@ -914,6 +972,10 @@
       "Тайвань",
       "Корейский полуостров",
       "Юго-Восточная Азия (диаспора)"
+    ],
+    "region_refs": [
+      "asia-east",
+      "asia-se"
     ],
     "legal_status": [
       {
